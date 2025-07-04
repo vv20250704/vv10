@@ -12,6 +12,6 @@
 同时，优化用户体验，确保网站加载速度快、设计简洁，避免过多广告干扰。外部链接和社交传播有助于提升曝光和权重。
 最重要的是，创作时要遵守道德标准，避免发布不当内容，确保网站长期稳定运营。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vv20250704/vv10 ）</span>
 
 
